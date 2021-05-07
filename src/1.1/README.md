@@ -1,0 +1,5 @@
+## NumPyのインストール
+
+```
+$ pip install numpy
+```
