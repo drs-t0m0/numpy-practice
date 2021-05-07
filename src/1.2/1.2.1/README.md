@@ -1,4 +1,4 @@
-# ndarrayの基礎
+# NumPyの多次元配列データ構造ndarrayの基礎
 
 ## ndarray
 
