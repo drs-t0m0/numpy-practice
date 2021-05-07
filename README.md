@@ -4,3 +4,4 @@
 
 - https://deepage.net/features/numpy/
 - https://numpy.org/
+- https://cupy.dev/
