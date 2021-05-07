@@ -1,0 +1,3 @@
+# NumPyのndarrayのインスタンス変数shapeの意味
+
+ndarrayのshapeは、各次元ごとの要素数を示す
