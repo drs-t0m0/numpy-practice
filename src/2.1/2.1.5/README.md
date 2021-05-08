@@ -1,0 +1,4 @@
+# 最大値を抜き出すnumpy.amaxとndarray.max関数の使い方
+
+ndarrayなどのコレクション要素から最大値を取得するには、np.amax関数かndarrayのメソッドndarray.maxを使用する
+
