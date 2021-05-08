@@ -1,0 +1,3 @@
+# 最小値を抜き出すnumpy.aminとndarray.min関数の使い方
+
+ndarrayなどのコレクション要素から最小値を取得するには、np.amin関数かndarrayのメソッドndarray.minを使用する
