@@ -1,0 +1,9 @@
+# 配列の要素の平均を求めるNumPyのaverage関数とmean関数の使い方
+
+NumPyには配列の要素の平均を求める関数numpy.averageとnumpy.meanの2つの関数がある
+
+## averageとmeanの違い
+
+一番大きな違いは、average関数には重み付き(weighted)の平均を求められるが、mean関数にはそのような機能がない  
+その他には、mean関数では平均を計算する際のデータ型をdtypeで指定することができるが、average関数では指定することができない
+
