@@ -142,3 +142,4 @@ cython_debug/
 
 *.npy
 *.data
+*.gz
